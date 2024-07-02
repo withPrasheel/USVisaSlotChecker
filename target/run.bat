@@ -1,0 +1,1 @@
+java -jar C:\Users\prash\OneDrive\Desktop\USVIsaSlotChecker\target\slotchecker-0.0.1.jar

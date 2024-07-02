@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.8.1
+Built-By: prash
+Build-Jdk: 17.0.1
+Class-Path: json-simple-1.1.jar
+Main-Class: slotchecker.SlotFinder
+

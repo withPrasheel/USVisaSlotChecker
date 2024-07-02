@@ -1,0 +1,1 @@
+start javaw -jar slotchecker-0.0.1.jar
